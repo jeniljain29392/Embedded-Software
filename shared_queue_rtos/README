@@ -1,5 +1,3 @@
-Olimex STM32 P103 Development Kit Demos
-
 OVERVIEW
 This folder contains an example of a shared queue which can be used by various 
 tasks to write messages to the RS232 port simultaneously.
