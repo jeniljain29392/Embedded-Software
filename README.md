@@ -1,7 +1,7 @@
 # Embedded-Software
 
 This repository includes some of my embedded software projects which I implemented 
-during my Masters studies.
+during my Masters studies. This is just for educational purpose and not for distribution.
 
 Folder Structure
 - <b>RTOS- Shared queue</b>:
