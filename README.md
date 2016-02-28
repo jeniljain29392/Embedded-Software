@@ -2,6 +2,8 @@
 
 This repository includes some of my embedded software projects which I implemented 
 during my Masters studies. This is just for educational purpose and not for distribution.
+This folder only contains RTOS- Shared queue. Other projects are in a private repository, 
+so please ask for git access.
 
 Folder Structure
 - <b>RTOS- Shared queue</b>:
